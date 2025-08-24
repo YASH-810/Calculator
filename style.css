@@ -1,0 +1,89 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Freehand&family=Oswald&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Freehand&family=Oswald&display=swap");
+
+h1 {
+  background-color: orange;
+
+  color: blue;
+
+  border-radius: 30px;
+
+  border: 2px dotted yellow;
+
+  font-family: "Bebas Neue", cursive;
+
+  font-family: "Freehand", cursive;
+
+  font-family: "Oswald", sans-serif;
+}
+
+.Body {
+  padding: 25px;
+  padding-right: px;
+  margin: 70px;
+  margin-right: 520px;
+  width: 190px;
+  border: 2px solid black;
+
+  border-radius: 15px;
+
+  background-color: rgb(235, 247, 7);
+}
+
+input[type="text"] {
+  border: 2px solid black;
+
+  border-radius: 5px;
+
+  background-color: rgb(216, 240, 222);
+}
+
+.Button {
+  font-family: "Bebas Neue", cursive;
+
+  font-family: "Freehand", cursive;
+
+  font-family: "Oswald", sans-serif;
+
+  padding: 10px 10px;
+
+  height: 40px;
+
+  width: 40px;
+
+  display: flex;
+
+  justify-content: center;
+}
+
+.OB {
+  background-color: rgb(237, 113, 59);
+}
+
+.OA {
+  background-color: rgb(8, 199, 209);
+}
+
+.zero {
+  width: 93px;
+}
+
+.red {
+  background-color: rgb(237, 59, 86);
+}
+
+.red:hover {
+  opacity: 1;
+}
+
+.display {
+  height: 45px;
+
+  width: 180px;
+}
+
+.OA,
+.OB,
+red:hover {
+  opacity: 1;
+}
